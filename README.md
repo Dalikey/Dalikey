@@ -2,6 +2,29 @@
 I’m if you want to contact me>
 discord: NoName#5320 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Unimportant stuff)
 Stuff that i couldn't find: 
 in mendix pro > domain model > double click table name. > validation rules tab > new > choose attribute > set type Regular Expressions > Select > new > name it > put code in Expression > ok > there u go theres ur checking if email has @ and . 
 
